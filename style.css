@@ -293,7 +293,7 @@ footer{
 }
 
 /* tab view only */
-@media screen and (min-width: 577px) and (max-width: 768px) {
+@media screen and (min-width: 577px) and (max-width: 992px) {
     .container{
         width: 90%;
     }
